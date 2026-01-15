@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/tassi/OneDrive/Documents/1 School/CS 2420/m1-date-blmurph26-main/cmake-build-debug/cmake_install.cmake",
+		"C:/Users/tassi/OneDrive/Documents/1 School/CS 2420/m1-date-blmurph26-main/cmake-build-debug/src/cmake_install.cmake",
+		"C:/Users/tassi/OneDrive/Documents/1 School/CS 2420/m1-date-blmurph26-main/cmake-build-debug/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
